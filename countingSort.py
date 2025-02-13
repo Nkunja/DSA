@@ -1,6 +1,10 @@
 """
 How fast the Counting Sort algorithm runs depends on both the range of possible values 
-k  and the number of values n  in the input array. The algorithm has a time complexity of  O(n+k)  and a space complexity of  O(n+k) .
+k  and the number of values n  in the input array. The algorithm has a 
+
+Time Complexity of  O(n+k)  and a 
+
+Space Complexity of  O(n+k) .
 
 """
 
